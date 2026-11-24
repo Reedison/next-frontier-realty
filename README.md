@@ -1,6 +1,6 @@
 # Next Frontier Realty Website
 
-Static, responsive investment real estate website serving Greater Austin, Texas. Features commercial investment advisory, 1031 exchange and NNN property information, Austin area markets, investor calculators, and contact inquiry via email.
+Static, responsive investment real estate website serving Greater Austin, Texas. Features commercial investment real estate brokery, 1031 exchange and NNN property information, Austin area markets, investor calculators, and contact inquiry via email.
 
 ## Deployment
 Deploy the repository root as a static site on Vercel. Framework preset: Other. Build command: none; output directory: repository root.
